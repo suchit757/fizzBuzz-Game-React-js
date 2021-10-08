@@ -1,3 +1,10 @@
+# OverView of App:-
+
+![fizzBuzz_Game-app](https://user-images.githubusercontent.com/53007019/136612548-a5d59992-9762-442a-aeeb-7e6d81720cd0.gif)
+
+# The number divisable by 3 "fizz" & divisable by 5 "buzz" Shows.
+# Using React js, typeScript, bootStrap, Scss
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
